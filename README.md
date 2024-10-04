@@ -27,7 +27,8 @@ Introducing FRIDAY, your cutting-edge speech-to-speech AI assistant that brings 
 
 - **MyShell OpenVoice:** The generated response is converted into speech using open-source voice cloning technology, providing flexibility in voice style (emotion, accents, tone).
 
-![FRIDAY](https://github.com/user-attachments/assets/5fe601f7-3335-449b-9b59-ea961449fbe7)
+![FRIDAY](https://github.com/user-attachments/assets/fbffbc89-799c-49e2-a77a-681d934b6be7)
+
 
 
 
